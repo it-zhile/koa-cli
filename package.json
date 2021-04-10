@@ -1,7 +1,7 @@
 {
-  "name": "{{name}}",
-  "author": "{{author}}",
-  "description": "{{description}}",
+  "name": "koa-template",
+  "author": "",
+  "description": "koa+msq后端服务api",
   "version": "0.1.0",
   "private": true,
   "scripts": {
